@@ -4,7 +4,7 @@ Roadmap to becoming a .NET Developer
 
 Um roteiro do desenvolvedor para todas as ferramentas e princípios necessários durante o desenvolvimento.
 
-![](data/dotnet.jpg)
+![](images/dotnet.jpg)
 
 O objetivo deste roteiro é dar uma ideia sobre a paisagem. O roteiro irá guiá-lo se você estiver confuso sobre o que aprender a seguir, em vez de encorajá-lo a escolher o que é moderno e moderno. Você deve compreender melhor por que uma ferramenta seria mais adequada para alguns casos do que a outra e lembre-se de que "moderno" nem sempre significa mais adequado para o trabalho.
 
