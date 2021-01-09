@@ -1,6 +1,6 @@
 # .Net Core Developer Roadmap
 
-Roadmap to becoming a .NET Developer 
+Roadmap to becoming a .NET Developer pt-BR
 
 Um roteiro do desenvolvedor para todas as ferramentas e princípios necessários durante o desenvolvimento.
 
