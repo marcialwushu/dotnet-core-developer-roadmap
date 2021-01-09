@@ -11,7 +11,7 @@ ASP.NET Core é a nova estrutura da Web da Microsoft. ASP.NET Core é uma estrut
 
 ## Roadmap
 
-![](images/dotnet.jpg)
+![](https://github.com/marcialwushu/dotnet-core-developer-roadmap/blob/main/images/ASP.NET%20Core%20Developer%20in%202021.png?raw=true)
 
 
 ## .Net core Features:
