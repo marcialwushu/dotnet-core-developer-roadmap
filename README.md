@@ -4,11 +4,14 @@ Roadmap to becoming a .NET Developer
 
 Um roteiro do desenvolvedor para todas as ferramentas e princípios necessários durante o desenvolvimento.
 
-![](images/dotnet.jpg)
-
-O objetivo deste roteiro é dar uma ideia sobre a paisagem. O roteiro irá guiá-lo se você estiver confuso sobre o que aprender a seguir, em vez de encorajá-lo a escolher o que é moderno e moderno. Você deve compreender melhor por que uma ferramenta seria mais adequada para alguns casos do que a outra e lembre-se de que "moderno" nem sempre significa mais adequado para o trabalho.
+>O objetivo deste roteiro é dar uma ideia sobre a paisagem. O roteiro irá guiá-lo se você estiver confuso sobre o que aprender a seguir, em vez de encorajá-lo a escolher o que é moderno e moderno. Você deve compreender melhor por que uma ferramenta seria mais adequada para alguns casos do que a outra e lembre-se de que "moderno" nem sempre significa mais adequado para o trabalho.
 
 ASP.NET Core é a nova estrutura da Web da Microsoft. ASP.NET Core é uma estrutura de plataforma cruzada de código aberto para a construção de aplicativos da web modernos baseados em nuvem no Windows, macOS ou Linux.
+
+
+## Roadmap
+
+![](images/dotnet.jpg)
 
 
 ## .Net core Features:
