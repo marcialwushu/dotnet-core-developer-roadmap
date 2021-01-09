@@ -21,7 +21,7 @@ ASP.NET Core é a nova estrutura da Web da Microsoft. ASP.NET Core é uma estrut
 - Dependency Injection. …
 - WebSockets & SignalR. …
 
-## Resources
+## Recursos
 
 1. Aprenda os pré-requisitos
 
