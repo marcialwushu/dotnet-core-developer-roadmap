@@ -226,4 +226,19 @@ ASP.NET Core é a nova estrutura da Web da Microsoft. ASP.NET Core é uma estrut
     - [NodaTime](https://github.com/nodatime/nodatime)
     - [GenFu](https://github.com/MisterJames/GenFu)
     - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+    
 
+## Wrap Up
+
+Se você acha que o roadmap pode ser melhorado, abra um PR com todas as atualizações e envie quaisquer problemas. Além disso, vou continuar a melhorar isso, então você pode querer marcar com estrela este repositório para revisitar.
+
+Ideia de: [ASP.NET Core Developer Roadmap [Inglês]](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+
+## Contribuição
+
+Quer contribuir? Encorajamos comentários e contribuições da comunidade. Siga nossas diretrizes de contribuição.
+
+## REFERÊNCIAS 
+
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- https://medium.com/developers-cafe/net-core-developer-roadmap-270bba855f82
