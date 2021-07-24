@@ -249,3 +249,4 @@ Quer contribuir? Encorajamos comentários e contribuições da comunidade. Siga 
 
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 - https://medium.com/developers-cafe/net-core-developer-roadmap-270bba855f82
+
