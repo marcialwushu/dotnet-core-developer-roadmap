@@ -41,7 +41,7 @@ Se você gosta ou está usando este projeto para aprender ou iniciar sua soluç�
    - [Dapper](https://github.com/StackExchange/Dapper)
    - [NHibernate](https://github.com/nhibernate/nhibernate-core)
    - [ASP.NET Core](https://www.pluralsight.com/search?q=asp.net%20core)
-   - Fundamentos de SQL
+   - [Fundamentos de SQL](https://sqlbolt.com/lesson/introduction)
 
 2. Habilidades de desenvolvimento geral
 
