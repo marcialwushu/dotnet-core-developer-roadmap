@@ -16,7 +16,7 @@ Dacă vă place sau folosiți acest proiect pentru a învăța sau a începe o s
 
 ##  Roadmap
 
-![](https://github.com/marcialwushu/dotnet-core-developer-roadmap/blob/main/images/ASP.NET%20Core%20Developer%20in%202021.png?raw=true)
+![](images/aspnetcore-developer-roadmap-printable.png)
 
 ## Caracteristici .NET Core:
 
