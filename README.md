@@ -1,10 +1,10 @@
-# Harta rutieră pentru dezvoltatorul .NET Core
+# Roadmap-ul  dezvoltatorului .NET Core
 
-> Harta rutieră pentru a deveni un Dezvoltator .NET
+>  Roadmap-ul pentru a deveni un Dezvoltator .NET
 
 Un ghid pentru dezvoltator cu toate instrumentele și principiile necesare în timpul dezvoltării.
 
-> Scopul acestei hărți rutiere este să ofere o idee despre peisaj. Harta rutieră vă va ghida dacă sunteți confuz cu privire la ce să învățați în continuare, în loc să vă încurajeze să alegeți ce este modern și în tendințe. Ar trebui să înțelegeți mai bine de ce unele instrumente ar fi mai potrivite pentru anumite cazuri decât altele și să vă amintiți că "modern" nu înseamnă întotdeauna cel mai potrivit pentru sarcină.
+> Scopul acestui roadmap este să ofere o idee despre peisaj.  Roadmap-ul vă va ghida dacă sunteți confuz cu privire la ce să învățați în continuare, în loc să vă încurajeze să alegeți ce este modern și în tendințe. Ar trebui să înțelegeți mai bine de ce unele instrumente ar fi mai potrivite pentru anumite cazuri decât altele și să vă amintiți că "modern" nu înseamnă întotdeauna cel mai potrivit pentru sarcină.
 
 ASP.NET Core este noul framework web dezvoltat de Microsoft. ASP.NET Core este un framework open-source și cross-platform pentru construirea de aplicații web moderne bazate pe cloud, compatibile cu Windows, macOS sau Linux.
 
@@ -14,7 +14,7 @@ ASP.NET Core este noul framework web dezvoltat de Microsoft. ASP.NET Core este u
 
 Dacă vă place sau folosiți acest proiect pentru a învăța sau a începe o soluție, acordați-i o stea. Vă mulțumesc!
 
-## Harta rutieră
+##  Roadmap
 
 ![](https://github.com/marcialwushu/dotnet-core-developer-roadmap/blob/main/images/ASP.NET%20Core%20Developer%20in%202021.png?raw=true)
 
@@ -87,9 +87,7 @@ Dacă vă place sau folosiți acest proiect pentru a învăța sau a începe o s
       - [Apache Cassandra](http://cassandra.apache.org)
       - [LiteDB](https://github.com/mbdavid/LiteDB)
       - [RavenDB](https://github.com/ravendb/ravendb)
-      - [CouchDB](http
-
-://couchdb.apache.org)
+      - [CouchDB](http://couchdb.apache.org)
 
 6. Cache
 
@@ -237,7 +235,7 @@ https://www.jetbrains.com/teamcity)
 
 ## Concluzie
 
-Dacă credeți că harta rutieră poate fi îmbunătățită, deschideți un PR cu toate actualizările și trimiteți orice probleme. De asemenea, voi continua să îmbunătățesc acest proiect, deci poate doriți să marcați acest repositoriu cu o stea pentru a reveni asupra lui.
+Dacă credeți că roadmap-ul poate fi îmbunătățită, deschideți un PR cu toate actualizările și trimiteți orice probleme. De asemenea, voi continua să îmbunătățesc acest proiect, deci poate doriți să marcați acest repositoriu cu o stea pentru a reveni asupra lui.
 
 Inspirație din: [ASP.NET Core Developer Roadmap [Engleză]](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
