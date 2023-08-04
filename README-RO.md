@@ -1,5 +1,5 @@
 Language: 
-[RO](README-RO.md)
+[RO](README-RO.md)|
 [ES](README.md)
 
 # Roadmap-ul  dezvoltatorului .NET Core
