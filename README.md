@@ -1,6 +1,6 @@
 Language: 
-[RO](README-RO.md)|
-[ES](README.md)
+[RO](/README-RO.md) | 
+[ES](/README.md)
 
 # .NET Core Developer Roadmap
 
